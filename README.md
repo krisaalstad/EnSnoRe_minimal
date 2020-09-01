@@ -10,7 +10,7 @@ To do so, run these scripts in the following order:
 
 Feel free to then compare the results generated in Simulation/result_20XX.mat to the independent ASO validation data stored in the Validation/Gridded_Val directory.
 
-References: Aalstad, K. et al. (2020): Snow reanalysis using multiple optical satellite constellations, Submitted to Hydrology and Earth System Sciences. 
+References: Aalstad, K. et al. (2020): Snow reanalysis using multiple optical satellite constellations, About to be submitted. 
 
 N.B. I have only included the processed land-cover, DEM, satellite, and ASO data. The raw data is not included since it is too large to store on github. Furthermore, to keep the code base manageable I have not included some of the pre-processing scripts for the land-cover, DEM, satellite, AVIRIS, and ASO data. However, if you are interested in these steps feel free to get in touch with me. 
 
