@@ -1,4 +1,4 @@
-# Lakes_minimal
+# EnSnoRe_MLB_minimal
 
 This repository hopefully contains the minimum amount of data and MATLAB code that will enable you to reproduce the snow reanalysis over the Mammoth Lakes basin that were conducted in Aalstad et al. (2020).
 
